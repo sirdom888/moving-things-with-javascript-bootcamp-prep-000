@@ -1,4 +1,4 @@
-Moving Things with JavaScript
+htmMoving Things with JavaScript
 ---
 
 ## Objectives
